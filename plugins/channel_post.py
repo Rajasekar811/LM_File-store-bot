@@ -59,7 +59,7 @@ async def new_post(client: Client, message: Message):
 
 
 
-# Lasera Official
+# Lasera_Official
 # Don't Remove Credit!!!
 # Telegram Channel @Lasera_Official
 # Developer @raja_sekar_811
