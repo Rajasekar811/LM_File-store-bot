@@ -31,7 +31,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 
 
 
-# Lasera Official 
+# Lasera_Official 
 # Don't Remove Credit!!!
 # Telegram Channel @Lasera_Official
 # Developer @raja_sekar_811
