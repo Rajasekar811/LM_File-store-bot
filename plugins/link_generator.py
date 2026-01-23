@@ -67,7 +67,7 @@ async def link_generator(client: Client, message: Message):
 
 
 
-# Tech freak 
+# Lasera_Official
 # Don't Remove Credit!!!
-# Telegram Channel @Tech_freak_tamil
-# Developer @devilo7
+# Telegram Channel @Lasera_Official
+# Developer @raja_sekar_811
