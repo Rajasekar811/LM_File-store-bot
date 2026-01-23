@@ -35,7 +35,7 @@ async def del_user(user_id: int):
 
 
 
-# Tech freak 
+# Lasera Official
 # Don't Remove Credit!!!
-# Telegram Channel @Tech_freak_tamil
-# Developer @devilo7
+# Telegram Channel @Lasera_official
+# Developer @raja_sekar_811
