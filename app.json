@@ -1,10 +1,10 @@
 {
   "name": "File Sharing Premium Bot",
-  "description": "Telegram File Sharing Premium Bot Bot ",
+  "description": "Telegram File Sharing Premium Bot ",
   "logo": "",
   "keywords": ["File Sharing Premium Bot", "Mongo DB"],    
-  "repository": "https://github.com/techfreak555/TF-File-Store-Bot",
-  "success_url": "https://t.me/tech_freak_tamil",
+  "repository": "https://github.com/Rajasekar811/LM_File-store-bot",
+  "success_url": "https://t.me/Lasera_Official",
   "env": {
       "API_ID": {
           "description": "Your APP ID From my.telegram.org ",
