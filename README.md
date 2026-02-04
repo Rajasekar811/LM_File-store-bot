@@ -1,5 +1,5 @@
 <h2 align="Center"><b><i>File-sharing-Bot</i></b></h2>
-<center><img src="https://files.catbox.moe/ufzpkn.jpg" ></center>
+<center><img src="https://files.catbox.moe/h0rxg9.jpg" ></center>
 <p align="center">
   <a href="https://www.python.org">
     <img width="10" height="10" src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
@@ -46,8 +46,8 @@ These features are in the pipeline, and contributions from the community are wel
 
 #### Deploy in your VPS or Commandline
 ````bash
-git clone https://github.com/Techfreak555/TF-File-store-bot
-cd TF-File-store-bot
+git clone https://github.com/Rajasekar811/LM_File-Store-bot
+cd LM_File-store-bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
